@@ -1,14 +1,14 @@
-<h2 align="center">Hi 👋, I'm George</h2>
+<h2 align="center">Hi, I'm George!</h2>
 <h3 align="center">IT Informatics Engineer | Matura (A Levels) Graduate | Tech Enjoyer</h3>
 
 <div align="center"> 
-  <img src="https://media.tenor.com/7zKZuIk31GEAAAAC/bird-dance.gif" alt="Animated Image" style="width: 25%;">
+  <img src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif" alt="Animated Image" style="width: 15%;">
 
-🔭 I’m currently working as **a Junior Full Stack Developer**
+ 🔭 I’m currently working as a Junior Full Stack Developer
 
- 🌱 I’m currently learning **Java and Angular**
+ 🌱 I’m currently learning Java and Angular
 
- ⚡ Fun fact **Bananas are berries, but strawberries aren't technically berries at all!**
+ 🍌 Fun fact Bananas are berries, but strawberries aren't technically berries at all! 🍓
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
