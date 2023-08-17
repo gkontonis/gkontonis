@@ -8,7 +8,7 @@
 
  🌱 I’m currently learning Java and Angular
 
- 🍌 Fun fact Bananas are berries, but strawberries aren't technically berries at all! 🍓
+ 🍌 Fun fact: Bananas are berries, but strawberries aren't technically berries at all! 🍓
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
