@@ -2,7 +2,7 @@
 <h3 align="center">IT Informatics Engineer | Matura (A Levels) Graduate | Tech Enjoyer</h3>
 
 <div align="center"> 
-  <img src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif" alt="Animated Image" style="width: 50%;">
+  <img src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif" alt="Animated Image" style="width: 40%;">
 
  💻 I’m currently working as a Junior Full Stack Developer
 
