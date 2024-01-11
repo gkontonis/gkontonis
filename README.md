@@ -2,7 +2,7 @@
 <h3 align="center">IT Informatics Engineer & Tech Enjoyer</h3>
 
 <div align="center"> 
-  <img src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif" alt="Animated Image" style="width: 30%;">
+  <img src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif" alt="Animated Image" style="width: 20%;">
 
  💻 I’m working as a Junior Full Stack Developer
 
