@@ -4,11 +4,9 @@
 <div align="center"> 
   <img src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif" alt="Animated Image" style="width: 20%;">
 
- 💻 I’m working as a Junior Full Stack Developer
+ Working as a Junior Full Stack Developer
 
- 🔭 I’m currently learning Java and Angular
-
- 🍌 Fun fact: Bananas are berries, but strawberries aren't technically berries at all! 🍓
+ Currently learning Web Development with the help of Java, Angular & TypeScript
 </div>
 
 <h2 align="center">Languages and Tools:</h2>
