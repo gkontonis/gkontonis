@@ -6,7 +6,7 @@
 
  Working as a Junior Full Stack Developer
 
- Currently learning Web Development with the help of Java, Angular & TypeScript
+ Currently learning Frontend & Web Development with the help of Java, Angular & TypeScript
 </div>
 
 <h2 align="center">Languages and Tools:</h2>
